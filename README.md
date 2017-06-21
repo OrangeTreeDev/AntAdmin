@@ -1,5 +1,5 @@
 # AntAdmin
-following  zuiidea to build the admin dashbord application with dva and antd
+following  zuiidea to build the admin dashbord application with dva and antd <br/>
 参考项目地址 <https://github.com/zuiidea/antd-admin>
 
 # 项目构建步骤
